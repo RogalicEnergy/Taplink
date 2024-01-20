@@ -3,5 +3,10 @@
 }
 
 body {
-  background-color: #d92c2c;
+  background-color: #8b8b8b;
+}
+
+.page-wrappeer {
+  max-width: 375px;
+  margin: auto;
 }
