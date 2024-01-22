@@ -3,10 +3,38 @@
 }
 
 body {
-  background-color: #8b8b8b;
+  background-color: #DFDDDD;
+  padding: 66px;
+  font-family: 'Alike Angular', serif;
+  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Comforter Brush', cursive;
+  font-family: 'Spectral SC', serif;
 }
 
 .page-wrappeer {
   max-width: 375px;
   margin: auto;
+  border-radius: 20px;
+  background: #EFEFEF;
+  box-shadow: -3px 1px 31.8px 10px rgba(0, 0, 0, 0.25);
+}
+
+.header {
+  color: #fff;
+  padding: 15px 53px 90px;
+  border-radius: 0px 0px 52px 52px;
+  background: linear-gradient(0deg, rgba(52, 66, 140, 0.20) 0%, rgba(52, 66, 140, 0.20) 100%), url('../img/header-bg.png'), no-repeat center /cover;
+  }
+
+.hello {
+  font-family: Comforter Brush;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.hello-text {
+  font-family: Comfortaa;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
 }
