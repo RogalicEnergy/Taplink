@@ -1,0 +1,45 @@
+<svg width="161" height="5" viewBox="0 0 161 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="161" height="5" fill="#F5F5F5"/>
+<g id="MacBook Pro 14&#34; - 1">
+<rect width="1512" height="982" transform="translate(-753 -706)" fill="#DFDDDD"/>
+<g id="iPhone 13 mini - 1" filter="url(#filter0_d_0_1)">
+<rect x="-109" y="-640" width="375" height="812" rx="20" fill="#EFEFEF"/>
+<g id="&#208;&#158;&#209;&#129;&#208;&#189;&#208;&#190;&#208;&#178;&#208;&#189;&#208;&#190;&#208;&#185; &#208;&#177;&#208;&#187;&#208;&#190;&#208;&#186;" filter="url(#filter1_d_0_1)">
+<rect x="-70" y="-308" width="297" height="378" rx="12" fill="white"/>
+</g>
+<g id="&#208;&#159;&#209;&#128;&#208;&#184;&#208;&#188;&#208;&#181;&#209;&#128;&#209;&#139; &#209;&#128;&#208;&#176;&#208;&#177;&#208;&#190;&#209;&#130;">
+<g id="&#208;&#161;&#208;&#181;&#208;&#187;&#208;&#181;&#208;&#186;&#209;&#130;&#208;&#190;&#209;&#128; &#208;&#178;&#209;&#139;&#208;&#177;&#208;&#190;&#209;&#128;&#208;&#176;">
+<circle id="Ellipse 1" cx="2.5" cy="2.5" r="2.5" fill="#727272"/>
+<circle id="Ellipse 3" cx="41.5" cy="2.5" r="2.5" fill="#D9D9D9"/>
+<circle id="Ellipse 4" cx="80.5" cy="2.5" r="2.5" fill="#D9D9D9"/>
+<circle id="Ellipse 5" cx="119.5" cy="2.5" r="2.5" fill="#D9D9D9"/>
+<circle id="Ellipse 6" cx="158.5" cy="2.5" r="2.5" fill="#D9D9D9"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-153.8" y="-680.8" width="458.6" height="895.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="10" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dx="-3" dy="1"/>
+<feGaussianBlur stdDeviation="15.9"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<filter id="filter1_d_0_1" x="-101.9" y="-335.9" width="360.8" height="441.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="1" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="15.45"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
